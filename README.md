@@ -19,6 +19,11 @@ preferred option and submit.
 
 ## Credits
 All code, unless otherwise stated in code comments was written by me.
+Promotional graphics on chrome web store were done by me, except:
+Bing logo graphics were made by Simpleicon at www.flaticon.com
+Wikipedia logo graphics were made by Freepik at www.flaticon.com
+Google logo graphics were made by Simpleicon at www.flaticon.com
+Yahoo logo graphics were made by Freepik at www.flaticon.com
 
 ## License
 Do whatever you want with it, but in the unlikely case that your computer explodes into a mushroom cloud I take no responibility.
