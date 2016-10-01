@@ -1,5 +1,7 @@
 # Saso Highlighted Search
 
+(For Microsoft Edge extension navigate to: [SasoHighlightedSearch_Edge](https://github.com/MrTambourineSLO/SasoHighlightedSearch-Edge)).
+
 ## Installation
 If you want to install this plugin for google chrome, get it from the [Chrome Web Store](https://chrome.google.com/webstore/detail/saso-highlighted-search/knkjhcbjbphbaknkgddnlgiaimonhbjp)
 You can also manually load the folder with this repositorie's content in chrome://extensions of your chrome browser in the Developer mode
