@@ -1,5 +1,5 @@
 # Saso Highlighted Search
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/knkjhcbjbphbaknkgddnlgiaimonhbjp.svg?maxAge=2592000)]()
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/knkjhcbjbphbaknkgddnlgiaimonhbjp.svg?maxAge=2592000)](https://chrome.google.com/webstore/detail/saso-highlighted-search/knkjhcbjbphbaknkgddnlgiaimonhbjp)
 ## Installation
 If you want to install this plugin for google chrome, get it from the [Chrome Web Store](https://chrome.google.com/webstore/detail/saso-highlighted-search/knkjhcbjbphbaknkgddnlgiaimonhbjp)
 You can also manually load the folder with this repositorie's content in chrome://extensions of your chrome browser in the Developer mode
